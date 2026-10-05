@@ -1,14 +1,14 @@
-# SQL for Data Analysis
+   SQL for Data Analysis
 
- Objective
-Use SQL queries to extract and analyze data from a database.
+## Objective
+To use SQL queries to extract and analyze data from a database.
 
-∆∆Tools
+## Tools Used
 - Python
 - SQLite
 - Pydroid 3
 
-##Topics Covered
+## Topics Covered
 - SELECT
 - WHERE
 - ORDER BY
@@ -18,8 +18,11 @@ Use SQL queries to extract and analyze data from a database.
 ## Dataset
 E-commerce sample data.
 
+## Description
+This project analyzes customer order data using SQL queries.
+
 ## Output
 The program displays orders, total sales, and average sales.
 
-RESULT:
-SQL data analysis task completed successfully.# data-Analyst-Task-3
+## Conclusion
+The SQL data analysis task was completed successfully.
